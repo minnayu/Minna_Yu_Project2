@@ -1,0 +1,62 @@
+[
+    {
+        "id": "aa32jj887hhg55",
+        "name": "Snorlax",
+        "pokemonType": "Sleeping Pokémon",
+        "type": "Normal",
+        "type2": "",
+        "description": "Snorlax is a huge, bipedal, dark blue-green Pokémon with a cream-colored face, belly, and feet. Its body is composed of mostly its belly, as its limbs are comparatively small. Its head is large with small, pointed ears and two pointed teeth protruding from its lower jaw. It has round feet, which both have three claws and a circular brown paw pad, and short arms with five claws on each hand. Snorlax's bulk makes it the heaviest Normal type.",
+        "imageName": "snorlaxpokedex",
+        "detailImageName": "snorlax"
+    },
+    {
+        "id": "bb32jj887hhg77",
+        "name": "Spheal",
+        "pokemonType": "Clap Pokémon",
+        "type": "Ice",
+        "type2": "Water",
+        "description": "Spheal is a chubby, spherical, seal-like Pokémon with a short, flat tail. Its plushy fur is light blue with several white spots of various sizes on its back. This covering of fluffy fur protects Spheal from the cold. It has black, circular eyes; small tusks protruding from its upper jaw; and small, rounded ears. Its stubby flippers and its underside are both beige.",
+        "imageName": "spheal image",
+        "detailImageName": "spheal"
+    },
+    {
+        "id": "cc32jj887hhg66",
+        "name": "Ninetales",
+        "pokemonType": "Fox Pokémon",
+        "type": "Fire",
+        "type2": "",
+        "description": "Ninetales is a fox-like, quadrupedal Pokémon covered in thick, luxurious golden-white fur. It has a small mane of thicker fur around its neck and a long, fluffy crest atop its head. It has slender legs with three-toed paws and nine, long tails with pale orange tips. It has red eyes, pointed ears, and a triangular black nose.",
+        "imageName": "ninetalesimg",
+        "detailImageName": "ninetalesanime"
+    },
+    {
+        "id": "dd32jj887hhg88",
+        "name": "Ludicolo",
+        "pokemonType": "Carefree Pokémon",
+        "type": "Grass",
+        "type2": "Water",
+        "description": "Ludicolo is a bipedal Pokémon that appears to be a mixture of a pineapple and a duck. There is a green, sombrero-like growth on its head that is similar to a lily pad. Growing out of the top of its head is a short brown stem with a yellow spiky upper portion. Ludicolo has black eyes surrounded by a patch of green and an orange bill. Its body is covered with shaggy yellow fur and has several zigzagging brown stripes. The female has thinner stripes than the male.",
+        "imageName": "ludicolo",
+        "detailImageName": "ludicolo2"
+    },
+    {
+        "id": "ee32jj887hhg99",
+        "name": "Gardevoir",
+        "pokemonType": "Embrace Pokémon",
+        "type": "Psychic",
+        "type2": "",
+        "description": "Gardevoir is a bipedal, humanoid Pokémon whose body resembles a flowing gown. Most of its body is white, but its hair, arms, and the underside of its gown are green. Its hair curls over its face and down the sides of its head. Behind its red eyes are short spikes, resembling a masquerade mask. It has long arms with three fingers on each hand and slender white legs. A red, fin-like horn extends from its chest, and a shorter, more rounded horn extends from the back. A band of green on its chest extends to the center of the front horn and connects to its sleeve-like arms.",
+        "imageName": "gardevoir",
+        "detailImageName": "gardevoir2"
+    },
+    {
+        "id": "ff32jj887hhg11",
+        "name": "Goodra",
+        "pokemonType": "Dragon Pokémon",
+        "type": "Dragon",
+        "type2": "",
+        "description": "Goodra is a bipedal, draconic Pokémon that is coated with slime. Most of its body is pale purple with a darker purple underside. It has bright green eyes, two green spots on each cheek, a relatively long neck, and a short, rounded snout. On top of its head are two pairs of antenna-like horns. The foremost horns are small nubs, but the hind horns are longer, thicker, and curve down its neck. The tips of the larger horns are slightly curled. It has proportionally short limbs with two digits each and a large, thick tail with a curled tip. Along each side of its tail are three green spots. A pale green slime is usually visible dripping from its chin and arms.",
+        "imageName": "goodra",
+        "detailImageName": "goodra2"
+    }
+]
