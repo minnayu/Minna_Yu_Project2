@@ -15,7 +15,6 @@ N/A
 
 4)
 SwiftUI tutorials provided in class
-https://bulbagarden.net/
 
 5)
 Open the project files in Swift using iPhone 12 Pro Max simulator
